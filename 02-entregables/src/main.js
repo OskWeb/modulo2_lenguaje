@@ -4,8 +4,6 @@ import { concat, concat_2 } from "./activities/Concat";
 import { isBookRead } from "./activities/ReadBooks";
 import { SlotMachine } from "./activities/SlotMachine";
 
-//import "./styles/main.scss";
-
 let array = ["Este", "es", "el", "contenido", "de", "mi", "array"];
 let array2 = ["y", "ahora", "más", "grande"];
 let array3 = ["por", "si", "fuera", "poco"];
