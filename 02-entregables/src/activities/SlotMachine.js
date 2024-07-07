@@ -5,7 +5,6 @@ export class SlotMachine {
 
   play() {
     this.monedas++;
-    //let booleanos = [];
     let booleanos = 0;
     for (let i = 0; i < 3; i++) {
       // El random entre 0 y 1 representa true o false
